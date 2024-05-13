@@ -1,13 +1,14 @@
 # Research-The-Characteristics-of-Indonesian-Films
 
-SMART dan PROBLEM STATEMENT
-Case = Production House A merupakan start up produsen film yang sedang berkembang, dalam proses perintisannya membangun perusahaan mereka ingin membangun portofolio film dengan rating yang lebih tinggi dari rata-rata rating film Indonesia untuk membangun kepercayaan calon investor. Production House A berencana ingin mengetahui karakteristik film Indonesia berdasarkan genre film dan durasi untuk nantinya menjadi bahan acuan mereka untuk membuat film.
-
-Specific: Mengetahui Karakteristik film Indonesia yang memiliki rating diatas rata-rata.
-Achievable: Dengan mengetahui rata-rata rating film Indonesia, mengetahui karakteristik film Indonesia yang memiliki rating diatas rata-rata.
-
-Relevant: Mengetahui karakteristik film yang memiliki rating diatas rata-rata dapat menjadi acuan Production House A untuk membuat film
-
+SMART dan PROBLEM STATEMENT <br>
+<br>
+Case = Production House A merupakan start up produsen film yang sedang berkembang, dalam proses perintisannya membangun perusahaan mereka ingin membangun portofolio film dengan rating yang lebih tinggi dari rata-rata rating film Indonesia untuk membangun kepercayaan calon investor. Production House A berencana ingin mengetahui karakteristik film Indonesia berdasarkan genre film dan durasi untuk nantinya menjadi bahan acuan mereka untuk membuat film. <br>
+<br>
+Specific: Mengetahui Karakteristik film Indonesia yang memiliki rating diatas rata-rata. <br>
+Achievable: Dengan mengetahui rata-rata rating film Indonesia, mengetahui karakteristik film Indonesia yang memiliki rating diatas rata-rata. <br>
+<br>
+Relevant: Mengetahui karakteristik film yang memiliki rating diatas rata-rata dapat menjadi acuan Production House A untuk membuat film <br>
+<br>
 Time-Bound: Q3 pada 2024
 
 Statement : Mengetahui karakteristik film dengan rating diatas rata-rata dapat menjadi acuan bagi Production House A membuat film yang memiliki rating tinggi sebagai portofolio mereka untuk membangun kepercayaan calon investor.
