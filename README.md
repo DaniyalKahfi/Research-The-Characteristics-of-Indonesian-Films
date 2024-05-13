@@ -1,5 +1,6 @@
-# Research-The-Characteristics-of-Indonesian-Films
-
+LINK VISUALISASI TABLEAU : https://public.tableau.com/views/INSYAALLAHFIX/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link <br>
+# Research-The-Characteristics-of-Indonesian-Films <br>
+<br>
 SMART dan PROBLEM STATEMENT <br>
 <br>
 Case = Production House A merupakan start up produsen film yang sedang berkembang, dalam proses perintisannya membangun perusahaan mereka ingin membangun portofolio film dengan rating yang lebih tinggi dari rata-rata rating film Indonesia untuk membangun kepercayaan calon investor. Production House A berencana ingin mengetahui karakteristik film Indonesia berdasarkan genre film dan durasi untuk nantinya menjadi bahan acuan mereka untuk membuat film. <br>
