@@ -1,4 +1,3 @@
-LINK VISUALISASI TABLEAU : https://public.tableau.com/views/INSYAALLAHFIX/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link <br>
 # Research-The-Characteristics-of-Indonesian-Films <br>
 <br>
 SMART dan PROBLEM STATEMENT <br>
@@ -24,3 +23,5 @@ Penjabaran masalah dengan metode 5W+1H: <br>
 - Pada tahun berapa yang memiliki rating diatas rata-rata?(Menggunakan visualisasi)<br>
 - Apakah genre film memiliki pengaruh terhadap rating? (Menggunakan inferensial)<br>
 - Apakah lama durasi film memiliki pengaruh terhadap rating ? (Menggunakan Inferensial<br>
+<br>
+LINK VISUALISASI TABLEAU : https://public.tableau.com/views/INSYAALLAHFIX/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link <br>
